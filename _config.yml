@@ -1,8 +1,10 @@
+# Build settings
+markdown: kramdown
 remote_theme: dashingcode/front-cover
 
 # Site settings
-name: John Smith
-description: "Nifty little description"
+name: DKFM
+description: "We make DevOps things that make DevOps easier"
 url: ""
 
 
@@ -16,7 +18,7 @@ avatar: yes
 #avatar_img_path: "imgs/avatar.jpg""
 # You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
-avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+avatar_img_path: "https://avatars.githubusercontent.com/u/77503959?s=400&u=af505101b668162da477d15bae5e03d22ef05262&v=4"
 
 
 front_img: yes
@@ -27,8 +29,3 @@ front_img_path: "imgs/background.jpg"
 favicon_img: yes
 favicon_img_path: "imgs/favicon.ico"
 #favicon_img_path: "https://external.url/favicon.ico"
-
-
-# Build settings
-markdown: kramdown
-permalink: pretty
