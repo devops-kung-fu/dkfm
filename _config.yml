@@ -1,6 +1,6 @@
 # Build settings
 markdown: kramdown
-remote_theme: dashingcode/front-cover
+remote_theme: devops-kung-fu/dkfm
 
 # Site settings
 name: DKFM
