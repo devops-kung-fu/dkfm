@@ -4,27 +4,17 @@ remote_theme: devops-kung-fu/dkfm
 
 # Site settings
 name: DKFM
-description: "We make DevOps things that make DevOps easier"
+description: "We make DevOps things that make DevOps things easier"
 url: ""
 
-
-# Delete the lines you don't need
-# about 5 elements are recomended
 github_username:  devops-kung-fu
 twitter_username: _dkfm_
 
-
 avatar: yes
-#avatar_img_path: "imgs/avatar.jpg""
-# You can link to your GitHub image. That way it will get updated
-# automatically whenever you change your GitHub profile picture
 avatar_img_path: "https://avatars.githubusercontent.com/u/77503959?s=400&u=af505101b668162da477d15bae5e03d22ef05262&v=4"
-
 
 front_img: yes
 front_img_path: "img/background.jpg"
-#front_img_path: "https://external.url/image.jpg"
-
 
 favicon_img: yes
 favicon_img_path: "imgs/favicon.ico"
