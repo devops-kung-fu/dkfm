@@ -19,7 +19,7 @@ body {
     left: 0;
 }
 #avatar {
-    height: 100px;
+    height: 180px;
     border-radius: 100%;
     border: 5px solid white;
     margin-bottom: 40px;
@@ -35,7 +35,7 @@ h1 {
 h3 {
     color: white;
     padding-bottom: 20px;
-    font-weight: thin;
+    font-weight: lighter;
 }
 .content {
     padding-top: 100px;
@@ -54,8 +54,8 @@ li {
     margin: 8px;
     display: inline-block;
     list-style: none;
-    width: 65px;
-    height: 65px;
+    width: 32px;
+    height: 32px;
 }
 li:hover {
     color: white;
