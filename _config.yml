@@ -3,6 +3,7 @@ markdown: kramdown
 remote_theme: devops-kung-fu/dkfm
 
 # Site settings
+page.title: DevOps Kung Fu Mafia
 site.name: DKFM
 name: DKFM
 description: "We make DevOps things that make DevOps things easier"
